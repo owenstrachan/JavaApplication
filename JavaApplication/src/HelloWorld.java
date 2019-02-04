@@ -8,7 +8,7 @@ public class HelloWorld {
 		System.out.println("Hello this is Ben");
 		System.out.println("Hello this is bsata");
 
-		System.out.print1n("Hello this is Nathan"):
+		System.out.print1n("Hello this is Owen"):
 
 	}
 
